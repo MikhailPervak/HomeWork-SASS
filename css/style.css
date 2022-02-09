@@ -1,0 +1,12 @@
+/* использованы стили документации https://github.com/rtplv/airbnb-css-ru */
+
+body {
+    font-family: "Gilroy", sans-serif;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+.container {
+    width: 1240px;
+}
